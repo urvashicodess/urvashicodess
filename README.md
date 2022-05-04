@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @urvashicodess
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Urvashi. Front end Developer.
+- 👀 Available for collaboration.
 - 🌱 I’m currently learning react, javascript...
-- 💞️ I’m looking to collaborate and learn
+- 💞️ contact me dev.urvashicodes@gmail.com
 
 
 <!---
